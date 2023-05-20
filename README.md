@@ -1,2 +1,2 @@
 # astrodes
-Simple Astroids game using Node.js and Phaser.io
+Simple Asteroids game using Node.js and Phaser.io
